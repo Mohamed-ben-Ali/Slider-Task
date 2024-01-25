@@ -1,0 +1,17 @@
+#main-img {
+  margin-top: 50px;
+  height: 400px;
+}
+.container {
+  justify-content: center;
+}
+.container img{
+    margin: 0 5px;
+    width: 250px;
+    height: 100px;
+}
+.active {
+  border: 2px solid ;
+  max-width: 100%;
+
+}
